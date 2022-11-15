@@ -15,6 +15,9 @@ function userForm(propsDoForm) {
                 [name]: value,
 
             });
+        },
+        clearForm() {
+            setValues({});
         }
     };
 }
@@ -24,7 +27,7 @@ export default function RegisterVideo() {
     const formCadastro = userForm({
         initialValues: { titulo: "God of ", url: "wwww.youtube...." }
     });
-    const [formVisivel, setFormVisivel] = React.useState(true);
+    const [formVisivel, setFormVisivel] = React.useState(false);
 
 
     return (
@@ -36,9 +39,11 @@ export default function RegisterVideo() {
                 ? (
                     <form onSubmit={(e) => {
                         e.preventDefault();
+                        setFormVisivel(false)
+                        formCadastro.clearForm();
                     }}>
                         <div>
-                            <button className="close-modal" onClick={() => setFormVisivel(false)} >
+                            <button type="button" className="close-modal" onClick={() => setFormVisivel(false)} >
                                 X
                             </button>
                             <input
