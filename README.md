@@ -8,13 +8,14 @@ O **AluraTube** é uma plataforma clone do YouTube onde iremos colocar nossos v�
 
 Esse projeto está sendo desenvolvido em uma imersão da [**Alura**](https://www.alura.com.br) voltada para iniciantes em React com foco em Next.js. O projeto está sendo desenvolvido sob a orientação do instrutor [Mario Souto](https://github.com/omariosouto) com participação da desenvolvedora [Nayanne Lopes](https://github.com/NayanneBatista) e do CEO da Alura, [Paulo Silveira](https://github.com/peas).
 
-<!-- prettier-ignore -->
-| 🪧 Vitrine. Dev |     |
-| -------------- | --- |
-| ✨ Nome        | **AluraTube** |
-| 🏷️ Tecnologias | React, Next, Styled-Components, Supabase |
-| 🚀 URL         | [https://matheus-tube.vercel.app/](https://matheus-tube.vercel.app) |
-| 🔥 Desafio     | [Design no Figma](https://www.figma.com/file/3ryManadSVXjYYdva3orGD/Aluratube-(Copy)?node-id=5%3A2) |
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **AluraTube**
+| :label: Tecnologias | React, Next, Styled-Components, Supabase
+| :rocket: URL         | [https://matheus-tube.vercel.app/](https://matheus-tube.vercel.app) |
+| :fire: Desafio     | [Design no Figma](https://www.figma.com/file/3ryManadSVXjYYdva3orGD/Aluratube-(Copy)?node-id=5%3A2) |
 
 ![](https://raw.githubusercontent.com/DevMatheusBarba/MatheusTube/main/capa.PNG#vitrinedev)
 
@@ -28,9 +29,7 @@ Esse projeto está sendo desenvolvido em uma imersão da [**Alura**](https://www
   <img src="https://img.shields.io/badge/supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
 </div>
 
-<!--
 
-<div id="howto"></div>
 
 ### ⚙️ Como usar
 
@@ -81,6 +80,5 @@ Para experimentar a aplicação em sua totalidade, você pode roda-lo localmente
 
 6. Para usar a aplicação, abra o seu browser preferido e acesse o endereço `http://localhost:5173/` -->
 
-<a href='#top'>🔼 Voltar ao topo</a>
 
----
+
