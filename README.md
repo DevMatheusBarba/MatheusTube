@@ -39,8 +39,6 @@ Para experimentar a aplicação em sua totalidade, você pode roda-lo localmente
 1. Faça o download deste repositório através do botão verde **Code** no topo da página e, em seguida, clicando em **Download ZIP**. Ou, se preferir, através do terminal (Git Bash, Powershell, etc.), use o comando:
 
 ```
-git clone https://github.com/sucodelarangela/orange-notes.git
-```
 
 2. Acesse a pasta do projeto com seu terminal;
 
